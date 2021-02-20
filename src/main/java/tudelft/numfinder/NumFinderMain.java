@@ -1,5 +1,4 @@
 package tudelft.numfinder;
-
 public class NumFinderMain {
 
     public static void main (String[] args) {
